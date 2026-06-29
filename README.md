@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **latesahil67@gmail.com** For Collaboration/Project or Anyt
 - 📫 **How to reach me:** latesahil67@gmail.com
 - 😄 **Pronouns:** Lordfury
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- 🧩 **Building scalable web applications with react and nodejs or nextjs
+- 🧩 **Building:** scalable web applications with react and nodejs or nextjs
 
 ## 🌐 Socials:
 <!-- Snake Game Repo View -->
