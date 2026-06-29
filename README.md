@@ -3,11 +3,10 @@
 
 Email Me 👉 ✉️ **latesahil67@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Typscript
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** latesahil67@gmail.com
-- 😄 **Pronouns:** Lordfury
+- 😄 **Pronouns:** *Lordfury*
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
