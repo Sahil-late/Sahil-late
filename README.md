@@ -1,13 +1,14 @@
 # 💫 Hi 👋, I'm Late Sahil
-**A passionate Mern Developer ||Full Stack Developer || Nextjs Developer
+**A passionate Mern Stack Developer | Full Stack Developer 
 
 Email Me 👉 ✉️ **latesahil67@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Typscript
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** latesahil67@gmail.com
-- 😄 **Pronouns:** *Lordfury*
+- 😄 **Pronouns:** Lordfury
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🧩 **Building scalable web applications with react and nodejs or nextjs
 
 ## 🌐 Socials:
 <!-- Snake Game Repo View -->
